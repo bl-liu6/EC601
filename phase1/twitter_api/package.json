@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "botometer": "^1.0.12",
+    "needle": "^3.1.0",
+    "node-botometer": "^0.1.7"
+  }
+}
