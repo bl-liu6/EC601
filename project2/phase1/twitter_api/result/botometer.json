@@ -1,5 +1,4 @@
-[
-    {
+{
       cap: { english: 0.22851217352302083, universal: 0.22121616027906205
         },
       categories: {
@@ -27,7 +26,7 @@
         name: "Andrey Luiz",
         screen_name: "aandreyluiz",
             // ...
-        },
-    },
-]
+        }
+}
+
   
