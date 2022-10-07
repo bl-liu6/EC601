@@ -1,7 +1,7 @@
 # Test
 I tested twitter APIs of followers_lookup, get_tweets, liked_tweets, etc. Besides, I used botometer API to check the activity of a Twitter account and give it a score based on to extent to which it matches accounts that use automation. Higher scores indicate activities that are more bot-like. All test codes are written in JavaScript and executed by Node.js. 
 
-# result
+# Result
 All test results are converted to json format.
 
 # Twitter API 
