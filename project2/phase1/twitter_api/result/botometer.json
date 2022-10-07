@@ -22,7 +22,7 @@
         },
       scores: { english: 0.6506901031179089, universal: 0.6545596461071505
         },
-      user: {
+      user: { 
             // ...
         name: "Andrey Luiz",
         screen_name: "aandreyluiz",
