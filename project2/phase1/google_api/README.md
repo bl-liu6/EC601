@@ -3,10 +3,7 @@
 
 
 # Google NL API
-
-
-
-
+Executed test programs to check different Google NLP APIs. Mainly focus on Sentiment analysis.
 
 
 [Cloud Natural Language API](https://cloud.google.com/natural-language/docs) provides natural
@@ -84,22 +81,6 @@ async function quickstart() {
 
 ```
 
-
-
-## Samples
-
-Samples are in the [`samples/`](https://github.com/googleapis/nodejs-language/tree/main/samples) directory. Each sample's `README.md` has instructions for running its sample.
-
-| Sample                      | Source Code                       | Try it |
-| --------------------------- | --------------------------------- | ------ |
-| Analyze v1 | [source code](https://github.com/googleapis/nodejs-language/blob/main/samples/analyze.v1.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-language&page=editor&open_in_editor=samples/analyze.v1.js,samples/README.md) |
-| Quickstart | [source code](https://github.com/googleapis/nodejs-language/blob/main/samples/quickstart.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-language&page=editor&open_in_editor=samples/quickstart.js,samples/README.md) |
-| Set Endpoint | [source code](https://github.com/googleapis/nodejs-language/blob/main/samples/setEndpoint.js) | [![Open in Cloud Shell][shell_img]](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/googleapis/nodejs-language&page=editor&open_in_editor=samples/setEndpoint.js,samples/README.md) |
-
-
-
-The [Natural Language Node.js Client API Reference][client-docs] documentation
-also contains samples.
 
 ## Supported Node.js Versions
 
