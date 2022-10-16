@@ -14,11 +14,16 @@ b8liu@bu.edu
 
 
 ### User Stories
-#### Political analyzer
-He/she wants to analyze the sentiment of the tweets of one politician (e.g JoeBiden)
+#### Advertising Company 
+As a decision maker for an advertising company，I want to:
+- find influencers that match the target audience of ads
+- collect user data and analyze them
+- comstomize ads that each user sees on their phones/computers
 
-#### Influencer's temper
-A journalist wants to analyze one influencer's sentiment on Twitter in a time period.
+#### Social Media App Developer
+As a social media app developer, I want to:
+- Track and analyze users' sentiment on my app
+- Collect specific user data to help improving user experience
 
 
 
@@ -27,37 +32,32 @@ A journalist wants to analyze one influencer's sentiment on Twitter in a time pe
 
 ## Modular design
 
-#### User-defined-input, 
+#### User-defined-input
 
-- specifing the Twitter account, 
-- number of tweets, 
-- include retweets/replies or not
+- The Twitter account(id)
+- Number of tweets they want to retrieve 
+- Number of followers
 
 #### Twitter API
-- sending user-defined-input as a query to Twitter API
-- retrieve raw tweets data
-
-#### Data cleaning
-- Remove mention block (@JoeBiden)
-- Remove retweet block (RT @JoeBiden:)
-- Remove embedded URLs
+- Send user-defined-input to Twitter API
+- Retrieve tweets data
 
 #### Google API
-- Send the clean data to Google NLP API
-- Retrive sentiment analysis result from Google
+- Send data to Google NLP API
+- Acquire sentiment analysis
 
-#### Present data
-- Present the sentiment analysis result in a graph/chart
+#### Output
+- Output the analysis result
 
 
 
 ## Target User
 
-One who want to do sentiment analysis to one twitter account, and also holds an Twitter API token/ Twitter Development account.
+people who want to track and collect twitter users' data such as their tweets, likes, followers etc. and conduct sentiment analysis based on these data.
 
 
 
 ## Basic User Stories.
-One who's interested in one user's Twitter account and would like to have sentiment analysis of multiple tweets.
+People who want to collect and analyze twitter users' accounts and peform some sentiment analysis.
 
 
