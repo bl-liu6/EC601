@@ -1,5 +1,5 @@
 # Social Media Analyzer
-tyx@bu.edu
+b8liu@bu.edu
 
 
 ## MVP and User Stories
