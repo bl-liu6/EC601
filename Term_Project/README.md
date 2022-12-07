@@ -1,2 +1,2 @@
 # Term Project
-[A1_27 Bolun Liu.pdf](https://github.com/bl-liu6/ec-601/files/10171529/A1_27.Bolun.Liu.pdf)
+<img width="1281" alt="image" src="https://user-images.githubusercontent.com/111820499/206056658-705d2848-f8ca-415d-8071-5c0a552a40b8.png">
