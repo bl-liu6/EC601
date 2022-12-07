@@ -1,5 +1,5 @@
 # EC 601 Documents
-This repository contains project 1-4 of EC 601 course.
+This repository contains project 1-4 and term project of course EC 601.
 ### Project 1
 - Paper of literature research and problem statement of term project
 ### Project 2
